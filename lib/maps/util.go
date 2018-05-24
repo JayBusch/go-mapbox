@@ -3,7 +3,7 @@
  * Utilities and Helpers for dealing with maps and map tiles
  * See https://www.mapbox.com/api-documentation/#maps for API information
  *
- * https://github.com/ryankurte/go-mapbox
+ * https://github.com/JayBusch/go-mapbox
  * Copyright 2017 Ryan Kurte
  */
 
