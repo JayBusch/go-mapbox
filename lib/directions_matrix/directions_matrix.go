@@ -3,7 +3,7 @@
  * Wraps the mapbox directions matrix API for server side use
  * See https://www.mapbox.com/api-documentation/#retrieve-a-matrix for API information
  *
- * https://github.com/ryankurte/go-mapbox
+ * https://github.com/JayBusch/go-mapbox
  * Copyright 2017 Ryan Kurte
  */
 
